@@ -1,0 +1,22 @@
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.exe
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.deps.json
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.runtimeconfig.json
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.dll
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\bin\Debug\netcoreapp3.0\CSSE.pdb
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\obj\Debug\netcoreapp3.0\CSSE.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\obj\Debug\netcoreapp3.0\CSSE.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\obj\Debug\netcoreapp3.0\CSSE.AssemblyInfo.cs
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\obj\Debug\netcoreapp3.0\CSSE.dll
+C:\Users\Hans Vertriest\Documents\gmd\sem3\CSSE\obj\Debug\netcoreapp3.0\CSSE.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.exe
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.deps.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.runtimeconfig.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\bin\Debug\netcoreapp3.0\CSSE.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\obj\Debug\netcoreapp3.0\CSSE.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\obj\Debug\netcoreapp3.0\CSSE.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\obj\Debug\netcoreapp3.0\CSSE.AssemblyInfo.cs
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\obj\Debug\netcoreapp3.0\CSSE.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les1\frist C#\obj\Debug\netcoreapp3.0\CSSE.pdb
