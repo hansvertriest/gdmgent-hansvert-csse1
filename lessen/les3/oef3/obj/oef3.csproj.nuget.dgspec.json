@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les1\\frist C#\\CSSE.csproj": {}
+    "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les3\\oef3\\oef3.csproj": {}
   },
   "projects": {
-    "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les1\\frist C#\\CSSE.csproj": {
+    "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les3\\oef3\\oef3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les1\\frist C#\\CSSE.csproj",
-        "projectName": "CSSE",
-        "projectPath": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les1\\frist C#\\CSSE.csproj",
+        "projectUniqueName": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les3\\oef3\\oef3.csproj",
+        "projectName": "oef3",
+        "projectPath": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les3\\oef3\\oef3.csproj",
         "packagesPath": "C:\\Users\\Hans Vertriest\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les1\\frist C#\\obj\\",
+        "outputPath": "C:\\users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\lessen\\les3\\oef3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hans Vertriest\\AppData\\Roaming\\NuGet\\NuGet.Config"

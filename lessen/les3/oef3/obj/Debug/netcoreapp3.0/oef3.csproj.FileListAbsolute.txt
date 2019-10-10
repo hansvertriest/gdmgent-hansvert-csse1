@@ -1,0 +1,11 @@
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.exe
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.deps.json
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.runtimeconfig.json
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.runtimeconfig.dev.json
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.dll
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\bin\Debug\netcoreapp3.0\oef3.pdb
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\obj\Debug\netcoreapp3.0\oef3.csprojAssemblyReference.cache
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\obj\Debug\netcoreapp3.0\oef3.AssemblyInfoInputs.cache
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\obj\Debug\netcoreapp3.0\oef3.AssemblyInfo.cs
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\obj\Debug\netcoreapp3.0\oef3.dll
+C:\users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les3\oef3\obj\Debug\netcoreapp3.0\oef3.pdb

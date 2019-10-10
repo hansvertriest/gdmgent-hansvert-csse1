@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace oef1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+		int getal;
+		getal =5; 
+		
+	/*if (getal<8){
+		getal += 1;	
+		Console.WriteLine("de waarde van getal is: " + getal);
+        } else if (getal > 6) {
+		getal += 1;
+		Console.WriteLine("de waarde van getal is: " + getal);
+    	} else if (getal >= 7) {
+		getal -= 1;
+		Console.WriteLine("de waarde van getal is: " + getal);
+	}*/
+	switch (getal) {
+		case 5 :
+			Console.WriteLine("kleiner als 8");
+			break;
+		case 6 :
+			Console.WriteLine("kleiner als 6");
+			break;
+	}
+
+}
