@@ -75,10 +75,10 @@ namespace oefening
 			SchrijfLog(GenereerWillekeurigGetal());
 			SchrijfLog(GenereerWillekeurigGetalLimieten(0,80));
 
-			// SchrijfLog(GenereerLottoGetallen());
-			// LottoTrekking();
-			// SchrijfLog(genereerEuroMillions());
-			// EuroMillion();
+			SchrijfLog(GenereerLottoGetallen());
+			LottoTrekking();
+			SchrijfLog(genereerEuroMillions());
+			EuroMillion();
 
 			SchrijfLog(GenereerAccount(voornaam, familienaam, isDocent));
 
