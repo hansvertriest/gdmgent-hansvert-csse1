@@ -1,0 +1,11 @@
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.exe
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.deps.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.runtimeconfig.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\bin\Debug\netcoreapp3.0\lotto.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\obj\Debug\netcoreapp3.0\lotto.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\obj\Debug\netcoreapp3.0\lotto.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\obj\Debug\netcoreapp3.0\lotto.AssemblyInfo.cs
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\obj\Debug\netcoreapp3.0\lotto.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\lotto\obj\Debug\netcoreapp3.0\lotto.pdb

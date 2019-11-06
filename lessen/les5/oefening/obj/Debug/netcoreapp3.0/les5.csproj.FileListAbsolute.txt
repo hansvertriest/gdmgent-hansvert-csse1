@@ -1,0 +1,11 @@
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\obj\Debug\netcoreapp3.0\les5.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\obj\Debug\netcoreapp3.0\les5.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\obj\Debug\netcoreapp3.0\les5.AssemblyInfo.cs
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.exe
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.deps.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.runtimeconfig.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\bin\Debug\netcoreapp3.0\les5.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\obj\Debug\netcoreapp3.0\les5.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les5\oefening\obj\Debug\netcoreapp3.0\les5.pdb
