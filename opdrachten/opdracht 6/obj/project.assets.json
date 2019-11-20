@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hans Vertriest\\.nuget\\packages\\": {}
+    "/home/hans/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\opdrachten\\opdracht 6\\opdracht 6.csproj",
-      "projectName": "opdracht 6",
-      "projectPath": "C:\\Users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\opdrachten\\opdracht 6\\opdracht 6.csproj",
-      "packagesPath": "C:\\Users\\Hans Vertriest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hans Vertriest\\repositories\\gdmgent-hansvert-csse1\\opdrachten\\opdracht 6\\obj\\",
+      "projectUniqueName": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj",
+      "projectName": "oefening7",
+      "projectPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj",
+      "packagesPath": "/home/hans/.nuget/packages/",
+      "outputPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hans Vertriest\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/hans/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -51,12 +51,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
