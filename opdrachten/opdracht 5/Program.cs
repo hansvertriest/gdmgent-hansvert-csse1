@@ -58,7 +58,7 @@ namespace oefening
 				familienaam = Console.ReadLine();
 				SchrijfLog("Ben je een student? Y/N");
 				string docentResponse = Console.ReadLine();
-				if (docentResponse == "Y") 
+				if (docentResponse == "N") 
 				{
 					isDocent = true;
 				} 
@@ -147,7 +147,7 @@ namespace oefening
 		{	
 			// random nummer tussen 1 en oneindig?
 			Random r = new Random();
-			return r.Next(2, 4);
+			return r.Next(2, 100);
 		}
 
 		static int GenereerWillekeurigGetalLimieten(int min, int max) 
@@ -167,7 +167,7 @@ namespace oefening
 				do
 				{
 					newNumber = GenereerWillekeurigGetalLimieten(1,45);
-				} while ( Array.Exists(output, element => element == newNumber.ToString()) == true);
+				} while (Array.Exists(output, element => element == newNumber.ToString()) == true);
 				output[i] = newNumber.ToString();
 			}
 			return string.Join(" ", output);

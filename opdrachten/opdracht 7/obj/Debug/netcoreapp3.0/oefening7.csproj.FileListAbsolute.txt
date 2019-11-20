@@ -1,0 +1,33 @@
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.csprojAssemblyReference.cache
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfoInputs.cache
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfo.cs
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.exe
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.deps.json
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.json
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.dev.json
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.dll
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.pdb
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.dll
+C:/Users/Hans Vertriest/repositories/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.pdb
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.csprojAssemblyReference.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfoInputs.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfo.cs
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/obj/Debug/netcoreapp3.0/oefening7.pdb
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.deps.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.dev.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/lessen/les7/oefening7/bin/Debug/netcoreapp3.0/oefening7.pdb
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7.deps.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7.runtimeconfig.dev.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/bin/Debug/netcoreapp3.0/oefening7.pdb
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/Debug/netcoreapp3.0/oefening7.csprojAssemblyReference.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfoInputs.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/Debug/netcoreapp3.0/oefening7.AssemblyInfo.cs
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/Debug/netcoreapp3.0/oefening7.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/Debug/netcoreapp3.0/oefening7.pdb

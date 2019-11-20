@@ -1,0 +1,11 @@
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\obj\Debug\netcoreapp3.0\les6.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\obj\Debug\netcoreapp3.0\les6.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\obj\Debug\netcoreapp3.0\les6.AssemblyInfo.cs
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.exe
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.deps.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.runtimeconfig.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\bin\Debug\netcoreapp3.0\les6.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\obj\Debug\netcoreapp3.0\les6.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les6\obj\Debug\netcoreapp3.0\les6.pdb

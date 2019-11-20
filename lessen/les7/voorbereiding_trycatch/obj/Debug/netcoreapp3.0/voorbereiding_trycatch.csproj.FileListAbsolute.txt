@@ -1,0 +1,11 @@
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\obj\Debug\netcoreapp3.0\voorbereiding_trycatch.csprojAssemblyReference.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\obj\Debug\netcoreapp3.0\voorbereiding_trycatch.AssemblyInfoInputs.cache
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\obj\Debug\netcoreapp3.0\voorbereiding_trycatch.AssemblyInfo.cs
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.exe
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.deps.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.runtimeconfig.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.runtimeconfig.dev.json
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\bin\Debug\netcoreapp3.0\voorbereiding_trycatch.pdb
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\obj\Debug\netcoreapp3.0\voorbereiding_trycatch.dll
+C:\Users\Hans Vertriest\repositories\gdmgent-hansvert-csse1\lessen\les7\voorbereiding_trycatch\obj\Debug\netcoreapp3.0\voorbereiding_trycatch.pdb
