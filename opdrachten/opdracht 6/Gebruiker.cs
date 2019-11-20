@@ -3,7 +3,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace oefening7
+namespace opdracht_6
 {
 	public class Gebruiker : Persoon
 	{

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj": {}
+    "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/opdracht 6.csproj": {}
   },
   "projects": {
-    "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj": {
+    "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/opdracht 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj",
-        "projectName": "oefening7",
-        "projectPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/oefening7.csproj",
+        "projectUniqueName": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/opdracht 6.csproj",
+        "projectName": "opdracht 6",
+        "projectPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/opdracht 6.csproj",
         "packagesPath": "/home/hans/.nuget/packages/",
-        "outputPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 7/obj/",
+        "outputPath": "/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hans/.nuget/NuGet/NuGet.Config"

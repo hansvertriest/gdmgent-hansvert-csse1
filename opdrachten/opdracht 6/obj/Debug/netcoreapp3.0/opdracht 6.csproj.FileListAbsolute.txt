@@ -1,0 +1,11 @@
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6.deps.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6.runtimeconfig.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6.runtimeconfig.dev.json
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/bin/Debug/netcoreapp3.0/opdracht 6.pdb
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/Debug/netcoreapp3.0/opdracht 6.csprojAssemblyReference.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/Debug/netcoreapp3.0/opdracht 6.AssemblyInfoInputs.cache
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/Debug/netcoreapp3.0/opdracht 6.AssemblyInfo.cs
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/Debug/netcoreapp3.0/opdracht 6.dll
+/home/hans/Desktop/sem3/CSSE/gdmgent-hansvert-csse1/opdrachten/opdracht 6/obj/Debug/netcoreapp3.0/opdracht 6.pdb

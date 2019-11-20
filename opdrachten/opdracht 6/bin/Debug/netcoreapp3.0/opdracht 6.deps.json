@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "oefening7/1.0.0": {
+      "opdracht 6/1.0.0": {
         "runtime": {
-          "oefening7.dll": {}
+          "opdracht 6.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "oefening7/1.0.0": {
+    "opdracht 6/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

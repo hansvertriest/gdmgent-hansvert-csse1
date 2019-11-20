@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace oefening7
+namespace opdracht_6
 {
 	public class Student : Gebruiker
 	{

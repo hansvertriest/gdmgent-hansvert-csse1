@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace oefening7
+namespace opdracht_6
 {
 	class Program
 	{
