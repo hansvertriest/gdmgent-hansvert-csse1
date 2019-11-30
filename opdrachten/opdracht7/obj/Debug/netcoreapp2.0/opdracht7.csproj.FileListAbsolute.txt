@@ -1,0 +1,10 @@
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/bin/Debug/netcoreapp2.0/opdracht7.deps.json
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/bin/Debug/netcoreapp2.0/opdracht7.runtimeconfig.json
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/bin/Debug/netcoreapp2.0/opdracht7.runtimeconfig.dev.json
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/bin/Debug/netcoreapp2.0/opdracht7.dll
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/bin/Debug/netcoreapp2.0/opdracht7.pdb
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/obj/Debug/netcoreapp2.0/opdracht7.csproj.CoreCompileInputs.cache
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/obj/Debug/netcoreapp2.0/opdracht7.AssemblyInfoInputs.cache
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/obj/Debug/netcoreapp2.0/opdracht7.AssemblyInfo.cs
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/obj/Debug/netcoreapp2.0/opdracht7.dll
+/home/hans/Desktop/gdm/CSSE/repository/opdrachten/opdracht7/obj/Debug/netcoreapp2.0/opdracht7.pdb
